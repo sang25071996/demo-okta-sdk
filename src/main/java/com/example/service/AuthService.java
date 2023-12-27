@@ -5,8 +5,6 @@ import com.example.model.Users;
 import com.example.request.AbstractService;
 import com.example.request.UserRequest;
 import com.okta.sdk.resource.client.ApiClient;
-import com.okta.sdk.resource.client.StringUtil;
-import com.okta.sdk.resource.common.PagedList;
 import com.okta.sdk.resource.group.GroupBuilder;
 import com.okta.sdk.resource.model.UpdateUserRequest;
 import com.okta.sdk.resource.model.User;
